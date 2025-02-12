@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net6.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b4290e32-9132-43bb-9858-e6f1831d4848/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/GestorRh"
+}
